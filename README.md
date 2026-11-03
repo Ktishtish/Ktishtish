@@ -20,6 +20,17 @@ Keziah is a  Cybersecurity and IT professional with an academic background in In
 I have a strong interest in identifying, investigating, and mitigating cybersecurity threats while contributing to the development of secure and resilient IT environments.
 My exeperience spans Security Operations Centre (SOC) Operations, security event monitoring, alert analysis, incident investigation, network security, data protection and IT infrastructure support. I also have an interest in digital forensics, cloud security, and the intersection of technology, information security, and data protection.
 I'm passionate about continuous learning, hands-on technical exploration, and applying technology to solve real-world security challenges. 
+---
+## 📌 PROFILE OVERVIEW
+
+| Section | Focus |
+|:---|:---|
+| 🔐 What I Do | Cybersecurity and IT capabilities |
+| 🛠️ Technical Toolkit | Technologies and tools |
+| 🚀 Projects & Labs | Practical investigations |
+| 🎓 Certifications | Training and professional development |
+| 📚 Currently Learning | Continuous technical development |
+| 🤝 Let's Connect | Professional networking |
 
 
 ---
