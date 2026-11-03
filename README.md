@@ -139,7 +139,7 @@ Wireshark, PCAP, DNS, UDP, TCP/IP, HTTP, TLS, Network Protocol Analysis.
 ## 🤝 Let's Connect
 I'm always open to connecting with cybersecurity professionals, technology enthusiasts, and individuals passionate about building secure digital environments.
 
-I'm particularly interested in opportunities and collaborations involving cybersecurity, security operations, network security, digital forensics, and cloud technologies.
+I'm particularly interested in opportunities and collaborations involving cybersecurity, security operations, network security, digital forensics, AI & cloud technologies.
 
 - GitHub: [Ktishtish](https://github.com/Ktishtish)
 - LinkedIn: [Keziah Tisher](https://www.linkedin.com/in/keziah-tisher/)
