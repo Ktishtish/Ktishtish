@@ -15,8 +15,7 @@
 </div>
 
 ---
-
-### Cybersecurity & IT Professional | Security Operations | Network Security | Digital Forensics
+cs
 
 I'm a Cybersecurity and IT professional with an academic background in Information Security and  Forensics. 
 I have a strong interest in identifying, investigating, and mitigating cybersecurity threats while contributing to the development of secure and resilient IT environments.
