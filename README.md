@@ -3,11 +3,12 @@
 
 ### Cybersecurity & IT Professional | Security Operations | Network Security | Digital Forensics
 
-I'm a Cybersecurity and IT professional with an academic background in Information Security and Network Forensics. I have a strong interest in identifying, investigating, and mitigating cybersecurity threats while contributing to the development of secure and resilient IT environments.
+I'm a Cybersecurity and IT professional with an academic background in Information Security and  Forensics. 
+I have a strong interest in identifying, investigating, and mitigating cybersecurity threats while contributing to the development of secure and resilient IT environments.
+My exeperience spans Security Operations Centre (SOC) Operations, security event monitoring, alert analysis, incident investigation, network security, data protection and IT infrastructure support. I also have an interest in digital forensics, cloud security, and the intersection of technology, information security, and data protection.
+I'm passionate about continuous learning, hands-on technical exploration, and applying technology to solve real-world security challenges. 
 
-My experience spans Security Operations Centre (SOC) operations, security event monitoring, alert analysis, incident investigation, network security, data protection and IT infrastructure support. I also have an interest in digital forensics, cloud security, and the intersection of technology, information security, and data protection.
 
-I'm passionate about continuous learning, hands-on technical exploration, and applying technology to solve real-world security challenges.
 ---
 
 ## 🔐 What I Do
