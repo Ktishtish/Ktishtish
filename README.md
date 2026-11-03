@@ -6,7 +6,7 @@
 
 ### CYBERSECURITY & IT PROFESSIONAL
 
-**Security Operations** • **Network Security** • **Digital Forensics** • **Cloud Security**
+**Security Operations** • **Network Security** • **Digital Forensics** • **Cloud Security** **Data Protection**
 
 <br>
 
