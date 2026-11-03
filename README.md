@@ -1,8 +1,8 @@
 
-# Keziah Tisher here! 👋
+
 <div align="center">
 
-# KEZIAH TISHER here!
+# Keziah Tisher here! 👋
 
 ### CYBERSECURITY & IT PROFESSIONAL
 
