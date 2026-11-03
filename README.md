@@ -1,4 +1,4 @@
-## 
+
 # Hi there, I'm Keziah! 👋
 
 ### Cybersecurity & IT Professional | Security Operations | Network Security | Digital Forensics
@@ -24,19 +24,12 @@ I'm passionate about continuous learning, hands-on technical exploration, and ap
 
 ### 🔍 Security Operations & Threat Analysis
 SIEM: Wazuh, FortiSIEM
-
 Security Orchestration & Automation: FortiSOAR
-
 Network Security & Firewall Management: FortiGate
-
 Security event monitoring and alert triage
-
 Log analysis and correlation
-
 Incident investigation and escalation
-
 Intrusion Detection and Prevention Systems (IDS/IPS)
-
 Threat detection and security event analysis
 
 ### 🌐 Network Security & Analysis
