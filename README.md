@@ -88,14 +88,40 @@ Performed PCAP analysis to investigate network activity associated with a Window
 - Authentication traffic analysis
 - Protocol identification and validation
 
-**Key Learning Points:**
-- Use Protocol Hierarchy as an initial step when analysing unfamiliar packet captures.
-- Treat packet captures as primary evidence and examine application-layer information when external DNS lookups are inconclusive.
-- Validate protocol identification instead of relying exclusively on Wireshark's heuristic dissector labels.
-- Use Follow Stream to reconstruct network conversations and understand communication patterns.
-- Apply field-specific display filters to investigate network activity efficiently.
-
 **Tools & Technologies:** Wireshark, PCAP, DNS, UDP, TCP/IP, HTTP, TLS, Network Protocol Analysis.
+---
+
+## 🎓 Certifications & Professional Development
+
+### 🔐 Cybersecurity & Security Operations
+- **Security Operations Centre (SOC) Operations** – CTFRoom Kenya (2026)
+- **Security Analyst Track** – Cyber Shujaa (2026)
+- **Cyber Security Fundamentals** – IBM (2025)
+
+### 🌐 Networking & Cloud Computing
+- **Cisco Certified Network Associate (CCNA)** – Cisco
+- **AWS Cloud Practitioner Training** – Amazon Web Services (2024)
+
+### 🛡️ Data Protection, Privacy & Governance
+- **Data Governance – Guardians of Trust** – atingi / GIZ (2026)
+- **Data Protection** – Centre for Intellectual Property and Information Technology Law (CIPIT), Strathmore University (2025)
+
+### 🌍 Cybersecurity Policy & Strategy
+- **Lifecycle, Principles and Good Practices on National Cybersecurity Strategy Development and Implementation** – International Telecommunication Union (ITU) (2026)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to connecting with cybersecurity professionals, technology enthusiasts, and individuals passionate about building secure digital environments.
+
+I'm particularly interested in opportunities involving cybersecurity, security operations, network security, digital forensics, and cloud technologies.
+
+- **GitHub:** [@Ktishtish](https://github.com/Ktishtish)
+- **LinkedIn:** [https://www.linkedin.com/in/keziah-tisher/]
+- **Email:** [keziahtisher@gmail.com]
+
+Let's connect, collaborate, and contribute to a safer digital world! 🔐
 
 
 
