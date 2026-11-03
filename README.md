@@ -1,5 +1,20 @@
 
 # Keziah Tisher here! 👋
+<div align="center">
+
+# KEZIAH TISHER
+
+### CYBERSECURITY & IT PROFESSIONAL
+
+**Security Operations** • **Network Security** • **Digital Forensics** • **Cloud Security**
+
+<br>
+
+`LEARN` &nbsp; • &nbsp; `INVESTIGATE` &nbsp; • &nbsp; `BUILD` &nbsp; • &nbsp; `SECURE`
+
+</div>
+
+---
 
 ### Cybersecurity & IT Professional | Security Operations | Network Security | Digital Forensics
 
@@ -18,7 +33,8 @@ I'm passionate about continuous learning, hands-on technical exploration, and ap
 - **Digital Forensics:** Digital evidence handling, metadata analysis, forensic investigation fundamentals, and supporting cybersecurity investigations.
 - **IT Infrastructure & Support:** Technical troubleshooting, operating system administration, user support, access management, and IT infrastructure maintenance.
 - **Information Security & Data Protection:** Information security principles, data protection, regulatory compliance, risk awareness, and security governance.
-- **Cloud Security** Developing knowledge of cloud infrastructure, cloud security principles, identity management, and securing cloud environments.
+- **Cloud Security** cloud security principles, Identity and Access management, cloud infrastructure and models.
+
   ---
 
 ## 🛠️ Technical Skills & Tools
@@ -87,8 +103,8 @@ Performed PCAP analysis to investigate network activity associated with a Window
 - Network stream reconstruction
 - Authentication traffic analysis
 - Protocol identification and validation
-
-**Tools & Technologies:** Wireshark, PCAP, DNS, UDP, TCP/IP, HTTP, TLS, Network Protocol Analysis.
+**Tools & Technologies**:
+Wireshark, PCAP, DNS, UDP, TCP/IP, HTTP, TLS, Network Protocol Analysis.
 ---
 
 ## 🎓 Certifications & Professional Development
@@ -112,16 +128,16 @@ Performed PCAP analysis to investigate network activity associated with a Window
 ---
 
 ## 🤝 Let's Connect
-
 I'm always open to connecting with cybersecurity professionals, technology enthusiasts, and individuals passionate about building secure digital environments.
 
-I'm particularly interested in opportunities involving cybersecurity, security operations, network security, digital forensics, and cloud technologies.
+I'm particularly interested in opportunities and collaborations involving cybersecurity, security operations, network security, digital forensics, and cloud technologies.
 
-- **GitHub:** [@Ktishtish](https://github.com/Ktishtish)
-- **LinkedIn:** [https://www.linkedin.com/in/keziah-tisher/]
-- **Email:** [keziahtisher@gmail.com]
+- GitHub: [Ktishtish](https://github.com/Ktishtish)
+- LinkedIn: [Keziah Tisher](https://www.linkedin.com/in/keziah-tisher/)
+- Email: [keziahtisher@gmail.com](mailto:keziahtisher@gmail.com)
 
 Let's connect, collaborate, and contribute to a safer digital world! 🔐
+
 
 
 
