@@ -18,7 +18,7 @@ I'm passionate about continuous learning, hands-on technical exploration, and ap
 - **Digital Forensics:** Digital evidence handling, metadata analysis, forensic investigation fundamentals, and supporting cybersecurity investigations.
 - **IT Infrastructure & Support:** Technical troubleshooting, operating system administration, user support, access management, and IT infrastructure maintenance.
 - **Information Security & Data Protection:** Information security principles, data protection, regulatory compliance, risk awareness, and security governance.
-- **Cloud Security:** Developing knowledge of cloud infrastructure, cloud security principles, identity management, and securing cloud environments.
+- **Cloud Security** Developing knowledge of cloud infrastructure, cloud security principles, identity management, and securing cloud environments.
   ---
 
 ## 🛠️ Technical Skills & Tools
